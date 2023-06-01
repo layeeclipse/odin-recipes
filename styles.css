@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif; /* Use a web-safe font */
+    background-color: #f8f9fa; /* Light gray background */
+    color: #333; /* Dark gray text */
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+h1 {
+    background-color: #007bff; /* Blue background */
+    color: #fff; /* White text */
+    padding: 10px 0;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    background-color: #f1f1f1; /* Lighter gray background */
+    margin: 5px 0;
+    padding: 10px;
+    text-align: center;
+}
+
+a {
+    color: #007bff; /* Blue text */
+    text-decoration: none; /* No underline */
+}
+
+a:hover {
+    color: #0056b3; /* Darker blue text on hover */
+}
