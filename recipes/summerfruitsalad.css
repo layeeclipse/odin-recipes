@@ -1,7 +1,7 @@
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #D7E9D4;
-    color: #6B4226;
+    background-color: #FAFAD2;
+    color: #6B8E23;
     margin: 0;
     padding: 0;
 }
@@ -23,6 +23,10 @@ h2 {
     text-align: left;
     padding-left: 20px;
     padding-top: 10px;
+}
+
+h3 {
+    padding-left: 40px;
 }
 
 p, ul, ol {
